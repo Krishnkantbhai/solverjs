@@ -76,7 +76,8 @@ Installation is done using the
     // The 8'th fibonacci number is : 8.
 
 ### getGcd
-    // The getGcd function are return the gcd of the given two numbers.
+    // The getGcd function are return the gcd of the given two numbers.fuction
+
     console.log(solverjs.getGcd(12, 24));
     // The output is : 12.
 
